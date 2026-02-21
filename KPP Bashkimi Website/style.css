@@ -91,7 +91,7 @@ header::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: url('img1.jpeg') center / cover no-repeat;
+  background: url('images/img1.jpeg') center / cover no-repeat;
   filter: brightness(0.30);
   z-index: 1;
 }
